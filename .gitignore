@@ -6,3 +6,24 @@ debug
 foo.*
 *.log
 data
+# Arquivos de Swap
+*.swp
+*.swo
+*.swn
+
+# Arquivos de sessão do Neovim
+Session.vim
+
+# Logs e dados de plugins
+/plugged/
+/plugin/
+/sessions/
+/undo/
+/view/
+
+# Cache do lazy.nvim
+lazy-lock.json
+*.luac
+
+# Outros
+.DS_Store
