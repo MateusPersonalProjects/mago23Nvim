@@ -24,7 +24,7 @@ This is a personal Neovim configuration, built on top of the excellent [LazyVim]
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mago23/mago23Nvim.git ~/.config/nvim
+    git clone https://github.com/MateusPersonalProjects/mago23Nvim ~/.config/nvim
     ```
 
     *(Make sure to back up your existing `~/.config/nvim` directory if you have one.)*
